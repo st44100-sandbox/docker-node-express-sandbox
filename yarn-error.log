@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/a12951/.nvm/versions/node/v8.6.0/bin/node /usr/local/Cellar/yarn/1.2.0/libexec/bin/yarn.js init
+
+PATH: 
+  /Users/a12951/.pyenv/shims:/Users/a12951/.rbenv/shims:/Users/a12951/.anyenv/envs/goenv/shims:/Users/a12951/.anyenv/envs/goenv/bin:/Users/a12951/.anyenv/bin:/Users/a12951/go/bin:/Users/a12951/.anyenv/envs/goenv/versions/1.8/bin:/Users/a12951/.anyenv/envs/goenv/shims/bin:/Users/a12951/local/bin::/Users/a12951/android-sdks/platform-tools:/Users/a12951/android-sdks/tools:/opt/X11/bin:/usr/local/Cellar/go/1.2/libexec/bin:/Users/a12951/.gopath/bin:/Users/a12951/.nvm/versions/node/v8.6.0/bin:/Users/a12951/node_modules/.bin:./node_modules/.bin:/Users/a12951/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands
+
+Yarn version: 
+  1.2.0
+
+Node version: 
+  8.6.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/Cellar/yarn/1.2.0/libexec/lib/cli.js:120880:13)
+      at emitNone (events.js:105:13)
+      at Interface.emit (events.js:207:7)
+      at Interface._ttyWrite (readline.js:775:16)
+      at ReadStream.onkeypress (readline.js:160:10)
+      at emitTwo (events.js:125:13)
+      at ReadStream.emit (events.js:213:7)
+      at emitKeys (internal/readline.js:420:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1011:36)
